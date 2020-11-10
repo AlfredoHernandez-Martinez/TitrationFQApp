@@ -22,5 +22,6 @@ Debe de estar escritos en dos columnas, ξ (avance de reacción) en la primera c
 Una vez pegado el link en la aplicación, escriba la cantidad de pares de datos que utilizó y presione "Add data", la aplicacion le indicara cuando puede presionar
 "back" en su telefono. Despues solo debe seleccionar "Plot Experimental Data"
 
+Para celular se sugiere tener la pantalla en vertical o portrait y en tablet o celulares de pantalla grande en horizontal o landscape. 
 
 Si tiene algun problema con la App, contactame en el correo alfredohm@quimica.unam.mx
