@@ -15,4 +15,12 @@ Una vez seleccionados los paramentros de la simulación se presiona "Calculate",
 
 Los colores de los puntos de la curva simulada se generan de forma aleatoria por lo que podria pasar que se grafique la curva con puntos de un color que es indistiguible de fondo. Basta con presionar de forma consecutiva "Calculate" hasta que se consiga un color apropiado.
 
+Para hacer usos de la opción Add Experimental Data, debe tener conexión a internet. En el Primer Textbox debe pegar el Link de la hoja de Google Sheet donde
+escribio los datos experimentales. Debe ajustar la privacidad de documento de PRIVADO a LECTOR, para poder usar los datos. 
+
+Debe de estar escritos en dos columnas, ξ (avance de reacción) en la primera columna y pH en la segunda, no existe limite de numero de pares de datos.
+Una vez pegado el link en la aplicación, escriba la cantidad de pares de datos que utilizó y presione "Add data", la aplicacion le indicara cuando puede presionar
+"back" en su telefono. Despues solo debe seleccionar "Plot Experimental Data"
+
+
 Si tiene algun problema con la App, contactame en el correo alfredohm@quimica.unam.mx
