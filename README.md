@@ -14,3 +14,5 @@ Una vez seleccionados los paramentros de la simulación se presiona "Calculate",
 *Titulacion MOH-H2A base fuerte-ácido diprotico debil* : Escribe en amabas casillas los valores de pKa
 
 Los colores de los puntos de la curva simulada se generan de forma aleatoria por lo que podria pasar que se grafique la curva con puntos de un color que es indistiguible de fondo. Basta con presionar de forma consecutiva "Calculate" hasta que se consiga un color apropiado.
+
+Si tiene algun problema con la App, contactame en el correo alfredohm@quimica.unam.mx
