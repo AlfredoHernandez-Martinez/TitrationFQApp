@@ -11,7 +11,7 @@ Una vez seleccionados los paramentros de la simulación se presiona "Calculate",
 
 *Titulación MOH-HA base fuerte-acido monoprotico debil* : Debes escribir 00 (doble cero) en la casilla de pKa2 y en la casilla pKa1 el que deseas simular
 
-*Titulacion MOH-H2A base fuerte-ácido diprotico debil* : Escribe en amabas casillas los valores de pKa
+*Titulacion MOH-H2A base fuerte-ácido diprotico debil* : Escribe en ambas casillas los valores de pKa
 
 Los colores de los puntos de la curva simulada se generan de forma aleatoria por lo que podria pasar que se grafique la curva con puntos de un color que es indistiguible de fondo. Basta con presionar de forma consecutiva "Calculate" hasta que se consiga un color apropiado.
 
@@ -23,5 +23,8 @@ Una vez pegado el link en la aplicación, escriba la cantidad de pares de datos 
 "back" en su telefono. Despues solo debe seleccionar "Plot Experimental Data"
 
 Para celular se sugiere tener la pantalla en vertical o portrait y en tablet o celulares de pantalla grande en horizontal o landscape. 
+
+La version 2 incluye permite el calculo de diagramas de distribución de especies, solo debes escribir los pKas usando la misma sintaxis. Monoprotico: Debes escribir 00 (doble cero) en la casilla de pKa2 y en la casilla pKa1 el que deseas simular y Diprotico: Escribe en ambas casillas los valores de pKa.
+
 
 Si tiene algun problema con la App, contactame en el correo alfredohm@quimica.unam.mx
