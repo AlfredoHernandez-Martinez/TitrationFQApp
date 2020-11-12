@@ -24,7 +24,7 @@ Una vez pegado el link en la aplicación, escriba la cantidad de pares de datos 
 
 Para celular se sugiere tener la pantalla en vertical o portrait y en tablet o celulares de pantalla grande en horizontal o landscape. 
 
-La version 2 incluye permite el calculo de diagramas de distribución de especies, solo debes escribir los pKas usando la misma sintaxis. Monoprotico: Debes escribir 00 (doble cero) en la casilla de pKa2 y en la casilla pKa1 el que deseas simular y Diprotico: Escribe en ambas casillas los valores de pKa.
+La version 2 permite el calculo de diagramas de distribución de especies, solo debes escribir los pKas usando la misma sintaxis. Monoprotico: Debes escribir 00 (doble cero) en la casilla de pKa2 y en la casilla pKa1 el que deseas simular y Diprotico: Escribe en ambas casillas los valores de pKa.
 
 
 Si tiene algun problema con la App, contactame en el correo alfredohm@quimica.unam.mx
